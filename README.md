@@ -1,13 +1,13 @@
 ### Hello all!
 My name is Spencer Dent.
-I'm a Comp-Sci grad of Covenant College,
-and I'm currently working towards my masters at the University of West Georgia.
 
 I'm currently employed at Sunbelt Ford here in Sylvester, GA
 as their Internet (and unofficial IT) Manager.
 I'm not doing much programming here,
 so being able to find an internship where I can sharpen the skills I went to school for
 would be greatly appreciated.
+
+I have a BA in Computer Science from Covenant College and an MS of Applied Computer Science from the University of West Georgia.
 
 I'm engaged to my spectacular fiancee, Brooke Phillips,
 and we're going to be married within the next couple of months.
