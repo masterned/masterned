@@ -1,25 +1,19 @@
-### Hello all!
-My name is Spencer Dent.
+### Welcome to my page.
 
-I'm currently employed at Sunbelt Ford here in Sylvester, GA as their Internet and IT Manager.
-I'm not doing much programming here, so being able to find an place where I can sharpen my skills would be greatly appreciated.
+If you're here, you probably already know me, but, in case you don't, I'm Spencer.
 
-I have a BA in Computer Science from Covenant College and an MS of Applied Computer Science from the University of West Georgia.
+My short description is pretty much all you need to know about me.
+I'm a Christian &ndash; though I may not be very good at showing it sometimes.
+I'm married to my lovely wife Brooke, and we live here in Cartersville, Ga.
+I'm currently working at Aromatic Fragrances International as their Software Project Manager &ndash; acting as a liason between company management and our many software teams.
+As such, I don't have a lot of time for programming myself, as the three titles I just mentioned above are definitely full-time positions.
 
-I'm married to my wonderful wife, Brooke Dent, and we're looking forward to possibly moving to Jacksonville for more tech job opportunities, better restaurant options, and closer access to the beach.
+As far as programming goes, taking a peek into my repos will give you sort of an idea of my experience.
+In my undergrad, most of my classes were in Java, but I also worked on projects in Python 2.7, ANSI C, Standard ML, Haskell, Ruby, MySQL, Javascript, Prolog, and (if you're not a purist, you'd also count) HTML.
+While in my master's program, I also had a chance to work in C#, Typescript, and SQL Server.
+Outside of schooling, I picked up some Purescript and Rust (Rust being my favorite so far).
+I find languages &ndash; both programming and human &ndash; to be absolutely facinating.
 
-As far as pet projects go, I'm still working on a friend's party game, but some of the nuance of it seems to be tripping into NP-hard problems.
-*It's amazing how simple concepts can be incredibly hard to put into code sometimes...*
-I'm also working on an RPG with my brother, but development has become quite slow with it as life has kept us both busy.
-
-Right now, Rust is my absolute favorite programming language.
-I stumbled upon it when I was looking for a language with cartain characteristics.
-It's everything I wanted and so much more.
-Due to my schooling, I'm quite familiar with Java (though I would not say I'm too fond of the language).
-I also am fairly familiar with JavaScript (and TypeScript and PureScript), C#, Ruby, C, and Haskell.
-I've dabbled in Angular, React, and Vue (though the frameworks are powerful, I tend to find myself falling back onto the vanilla languages underneath the frameworks), and a handful of school projects had me use Ruby on Rails and the .NET framework.
-
-My hobbies include some D&D and working on my computer.
-I currently run PopOS as a daily driver, but I will be switching over to Artix once my new laptop arrives.
-I'd like to think of myself as being proficient in Linux.
-But, I'm sure anyone else with experience in the OS knows, there's always so much more to learn.
+Well, you've read this far.
+If you're curious which distro I use, I'm currently dabbling in NixOS.
+I still have a handful of machines running Fedora. I've ran Pop-OS in the past (still looking forward to COSMIC's full release), as well as Ubuntu, a little bit of Mint and KDE Neon, and I've attempted to daily-drive an Artix install using Luke Smith's LARBS rice (I think I would have been more successful if I had molded the keybinds to my usage habits).
