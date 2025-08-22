@@ -4,7 +4,7 @@ If you're here, you probably already know me, but, in case you don't, I'm Spence
 
 My short description is pretty much all you need to know about me.
 I'm a Christian &ndash; though I may not be very good at showing it sometimes.
-I'm married to my lovely wife Brooke, and we live here in Cartersville, Ga.
+I'm married to my lovely wife Brooke, and we live here in Rockmart, GA.
 I'm currently working at Aromatic Fragrances International as their Software Project Manager &ndash; acting as a liason between company management and our many software teams.
 As such, I don't have a lot of time for programming myself, as the three titles I just mentioned above are definitely full-time positions.
 
